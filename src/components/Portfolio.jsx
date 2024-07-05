@@ -5,14 +5,15 @@ import navbar from "../assets/portfolio/navbar.jpg";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import reactPortfolio from "../assets/portfolio/portfolio.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
-      demo: "https://github.com/MianAliKhalid",
-      code: "https://github.com/MianAliKhalid"
+      src: reactPortfolio,
+      demo: "https://6687b266f0d09218dac261ab--mianalikhalid-portfolio.netlify.app/",
+      code: "https://github.com/MianAliKhalid/react-portfolio"
     },
     {
       id: 2,

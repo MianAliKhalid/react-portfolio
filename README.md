@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live PReview `Website Live Preview available at` 
+To check this site live, visit the following link: [https://6687afa18835560a10005c3c--mianalikhalid-portfolio.netlify.app/](https://6687afa18835560a10005c3c--mianalikhalid-portfolio.netlify.app/)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+

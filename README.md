@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Live PReview `Website Live Preview available at` 
+## `Website Live Preview available at` 
 To check this site live, visit the following link: [https://6687afa18835560a10005c3c--mianalikhalid-portfolio.netlify.app/](https://6687afa18835560a10005c3c--mianalikhalid-portfolio.netlify.app/)
 
 
